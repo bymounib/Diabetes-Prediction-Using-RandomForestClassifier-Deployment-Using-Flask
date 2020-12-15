@@ -1,5 +1,5 @@
 # Diabetes-Prediction-Using-RandomForestClassifier-Deployment-Using-Flask
  
-## screenshot of the project:
+## Screenshot of the project:
 
 ![](screenshot.png)
